@@ -1,0 +1,40 @@
+#image{
+	position:absolute;
+	z-index: -1;
+	margin-right: 100px;
+	margin: 200px;
+	width: 900px;
+	height: 700px;
+}
+table,th,td{
+
+	width:
+}
+#score{
+	background-color: orangered;
+	text-align: left;
+}
+.th1{
+	text-align: right;
+	
+}
+.t1{
+color: white;
+background-color: orangered;
+}
+.footer{
+    display:flex;
+    flex-direction: row;
+    align-content: flex-end;
+	position: relative;
+	top: 750px;
+	margin-left: 80px;
+	font-size: 18px;
+	font-family: Nunito Sans;
+    font-style: normal;
+    
+}
+.logo{
+	display: flex;
+	justify-content: flex-end;
+}
